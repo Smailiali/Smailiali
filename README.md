@@ -1,3 +1,7 @@
+```
+╝╚══════╝╚═╝    ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝
+```
+
 <!-- Profile views counter -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Smailiali&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
